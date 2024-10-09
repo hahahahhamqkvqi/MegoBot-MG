@@ -10,20 +10,20 @@ import moment from 'moment-timezone';
 global.botnumber = "*『🔥┇𝙼𝙴𝙶𝙾-𝙱𝙾𝚃』*"
 global.confirmCode = ""
 
-global.owner = [['201012531172', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
+global.owner = [['249915124401', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
 ];
 
-global.suittag = ['201025663589'];
-global.prems = ['201025663589'];
+global.suittag = ['249915124401'];
+global.prems = ['201148134389'];
 
-global.packname = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.author = '✩𝙼𝙴𝙶𝙾-𝙱𝙾𝚃☆';
-global.wm = '✯𝐌𝐄𝐆𝐎𝐁𝐎𝐓-𝐌𝐃✯';
+global.packname = '☾︎ 𝙱𝙾𝚃 𝚆𝙳 𝚈𝙰𝚂𝙸𝚁☽︎';
+global.author = '✩𝙱𝙾𝚃 𝚆𝙳 𝚈𝙰𝚂𝙸𝚁☆';
+global.wm = '✯𝐖𝐃 𝐘𝐀𝐒𝐈𝐑 𝐁𝐎𝐑✯';
 global.vs = 'V2 • 1.0.5';
-global.titulowm = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.titulowm2 = `☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`
-global.igfg = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
+global.titulowm = '☾︎ 𝙱𝙾𝚃 𝚆𝙳 𝚈𝙰𝚂𝙸𝚁 ☽︎';
+global.titulowm2 = `☾︎ 𝙱𝙾𝚃 𝚆𝙳 𝚈𝙰𝚂𝙸𝚁 ☽︎`
+global.igfg = '☾︎ 𝙱𝙾𝚃 𝚆𝙳 𝚈𝙰𝚂𝙸𝚁 ☽︎';
+global.wait = '*[ ]انتظر جاري تحميلك للمطور ود ياسر*...\n\n*atom.bio/mego51_51*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -43,15 +43,15 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`;
-global.gt = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.mysticbot = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
+global.wm2 = `${dia} ${fecha}\n☾︎ 𝚆𝙳 𝚈𝙰𝚂𝙸𝚁 𝙱𝙾𝚃 ☽︎`;
+global.gt = '☾︎ 𝚆𝙳 𝚈𝙰𝚂𝙸𝚁 𝙱𝙾𝚃 ☽︎';
+global.mysticbot = '☾︎ 𝚆𝙳 𝚈𝙰𝚂𝙸𝚁 𝙱𝙾𝚃 ☽︎';
 global.md = 'atom.bio/mego51_51';
 global.mysticbot = 'atom.bio/mego51_51';
-global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.nomorown = '201025663589';
+global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\𝚆𝙳 𝚈𝙰𝚂𝙸𝚁 𝙱𝙾𝚃*';
+global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\𝚆𝙳 𝚈𝙰𝚂𝙸𝚁 𝙱𝙾𝚃*';
+global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\𝚆𝙳 𝚈𝙰𝚂𝙸𝚁 𝙱𝙾𝚃*';
+global.nomorown = '249915124401';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
